@@ -1,5 +1,6 @@
 # kubeflow-generator
 Website helps to generate pipeline based on user inputs
+This assumes that kubeflow pipeline has already been deployed in your kubernetes cluster
 
 ### Dependencies
 1. Python3.6 and above
